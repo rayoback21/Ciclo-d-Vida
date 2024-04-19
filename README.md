@@ -4,9 +4,9 @@
 
 - El código es un componente de React llamado HouseUrbanization que utiliza la sintaxis de clase. El componente simula el progreso de la construcción de una casa, cambiando el estado constructionStarted de forma secuencial cada 2 segundos.
 
-##Estados
+## Estados
 
--**constructionStarted**: String que representa el estado actual de la construcción de la casa. Inicializado con el valor 'Property'.
+- **constructionStarted**: String que representa el estado actual de la construcción de la casa. Inicializado con el valor 'Property'.
 
 # Funciones de Manejo
 
